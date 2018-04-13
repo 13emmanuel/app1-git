@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-
- <widget xmlns = "http://www.w3.org/ns/widgets"
+<widget xmlns = "http://www.w3.org/ns/widgets"
   xmlns:gap ="http://phonegap.com/ns/1.0"
   id ="com.phonegap.app1"
   version ="1.0.0">
   
-  <name>app1-2018 Datos del dispositivo</name>
+  <name>app1-2018 Datos del Dispositivo</name>
   
   <description>
   Aplicacion que muestra los Datos del dispositivo
   </description>
   
   <author href="https:/build.phonegap.com" email="ema.mq13@gmail.com">
-  emmanuel moreno quintero
+   Emmanuel  Moreno Quintero
   </author>
   
   <!--personaliza la aplicacion y plataforma -->
@@ -38,5 +37,3 @@
    <icon src="res/android/mdpi.png"/>
    
   </widget>
-  
- 
